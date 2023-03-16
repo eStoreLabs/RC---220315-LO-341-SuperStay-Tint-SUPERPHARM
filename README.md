@@ -10,11 +10,11 @@
 
 ## PROJECT PREVIEW
 
-![Design preview for the project]()
+![Design preview for the project](https://estorelabs.github.io/RC---220315-LO-341-SuperStay-Tint-SUPERPHARM/EAN.html)
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
-[.psd link](https://drive.google.com/drive/folders/1wa6JDBxG7iE0vlsbBnVL7trLgjBc_OuW)
+[.psd link](https://drive.google.com/drive/folders/1sS6sTftc3Cch6fJMc9dRH13jmOmUqSfG)
 
 <!-- please enter link to preview designs -->
 
