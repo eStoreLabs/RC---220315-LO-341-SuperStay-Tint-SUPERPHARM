@@ -461,7 +461,6 @@ body {
   justify-content: center;
   max-width: 500px;
   padding-top: 40px;
-  margin-bottom: 50px;
   gap: 10px;
   flex-wrap: wrap;
 }
@@ -999,6 +998,26 @@ body {
   }
 }
 @media screen and (min-width: 998px) {
+  #es-maybelline.es-maybelline .es-steps__inner {
+    justify-content: space-between;
+  }
+
+  #es-maybelline.es-maybelline .es-steps__img img {
+    width: 90px;
+    height: 110px;
+  }
+
+  #es-maybelline.es-maybelline .es-steps__image {
+    max-width: 305px;
+  }
+
+  #es-maybelline.es-maybelline .es-steps__single {
+    max-width: 166px;
+  }
+
+  #es-maybelline.es-maybelline .es-steps__desc {
+    font-size: 11px;
+  }
   #es-maybelline.es-maybelline .es-kv__text--one {
     font-size: 18px;
   }

@@ -6,11 +6,11 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220315-LO-341-SuperStay-Tint-SUPERPHARM/EAN.html)
 
 ## PROJECT PREVIEW
 
-![Design preview for the project](https://estorelabs.github.io/RC---220315-LO-341-SuperStay-Tint-SUPERPHARM/EAN.html)
+![Design preview for the project]()
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
