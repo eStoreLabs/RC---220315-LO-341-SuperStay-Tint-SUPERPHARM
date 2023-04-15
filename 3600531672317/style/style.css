@@ -998,6 +998,9 @@ body {
   }
 }
 @media screen and (min-width: 998px) {
+  #es-maybelline.es-maybelline .es-kv__text--two img {
+    max-width: 55px;
+  }
   #es-maybelline.es-maybelline .es-steps__inner {
     justify-content: space-between;
   }
@@ -1024,7 +1027,7 @@ body {
   #es-maybelline.es-maybelline .es-kv__text--two {
     margin-top: 20px;
     margin-left: -6px;
-    width: 400px;
+    width: 250px;
   }
   #es-maybelline.es-maybelline .es-features__single {
     max-width: 220px;
